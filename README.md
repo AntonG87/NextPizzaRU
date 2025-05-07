@@ -34,9 +34,41 @@ It became my main **pet project**, where I practiced building a scalable fullsta
 
 📸 Screenshots
 <details> <summary>Click to expand screenshots</summary>
+  
 🏠 Home Page
 
+![image](https://github.com/user-attachments/assets/4c737053-f766-415c-b4f9-285fa3d230c4)
+
+![image](https://github.com/user-attachments/assets/3c960a47-47a8-4ba2-9b0a-3d7dcd10c980)
+
+
 🔐 Login Modal
+
+![image](https://github.com/user-attachments/assets/6cc711ba-dc75-4a62-8220-e439dfe929d9)
+
+![image](https://github.com/user-attachments/assets/53f327db-2d3d-4ecc-9c30-043bef085c7c)
+
+
+🛒 Cart
+
+![image](https://github.com/user-attachments/assets/2b7ffbf7-74cd-4459-870e-2c0a1e48bc71)
+
+![image](https://github.com/user-attachments/assets/1a7366b9-6c4c-4765-b6dc-cb21de11d542)
+
+
+🍕 Modal Choose
+
+![image](https://github.com/user-attachments/assets/4eff4c7a-9d1e-43c8-9641-1e0bb26ad8da)
+
+![image](https://github.com/user-attachments/assets/f8b498b5-3ec5-451f-9272-8d4bf1297331)
+
+![image](https://github.com/user-attachments/assets/358099af-3110-4725-b588-dbaa6183d73e)
+
+
+✅ Filters 
+
+![image](https://github.com/user-attachments/assets/9a5d73a9-edff-4551-b327-04e6fcf87872)
+
 
 </details>
 
