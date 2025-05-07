@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d91b8849-837c-46d7-9d78-8168e8c98017" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
@@ -899,11 +900,15 @@
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="525d6042-f840-4615-aeb9-57f30d385d3a" name="Changes" comment="FINAL UPDATE" />
+>>>>>>> 21f5efa (final u)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -956,17 +961,43 @@
 }</component>
   <component name="ProjectId" id="2vXoUimEqhWtLqFXlgrkVQNQJ09" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AntonG87"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AntonG87/next-pizza-evelson.git",
+    "accountId": "a33291af-7695-4fd1-a378-0751f1157ec7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2wlIy2Llej3QuQrIKnHX3G5NWL9" />
+>>>>>>> 21f5efa (final u)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "Node.js.index.js.executor": "Run",
+=======
+>>>>>>> 21f5efa (final u)
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/tauit/Desktop/All work/evelsonBlog-next",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -976,6 +1007,12 @@
     "npm.run.executor": "Run",
     "npm.start.executor": "Run",
     "settings.editor.selected.configurable": "editing.templates",
+=======
+    "last_opened_file_path": "C:/Users/tauit/Desktop/All work/nextPizza/next-pizza",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+>>>>>>> 21f5efa (final u)
     "ts.external.directory.path": "C:\\Users\\tauit\\Desktop\\All work\\nextPizza\\next-pizza\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -992,6 +1029,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tauit\Desktop\All work\nextPizza\next-pizza" />
+<<<<<<< HEAD
       <recent name="C:\Users\tauit\Desktop\All work\nextPizza\next-pizza\shared" />
       <recent name="C:\Users\tauit\Desktop\All work\nextPizza\next-pizza\shared\lib" />
       <recent name="C:\Users\tauit\Desktop\All work\nextPizza\next-pizza\shared\store" />
@@ -1014,6 +1052,13 @@
       <method v="2" />
     </configuration>
   </component>
+=======
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tauit\Desktop\All work\nextPizza\next-pizza" />
+    </key>
+  </component>
+>>>>>>> 21f5efa (final u)
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -1024,6 +1069,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="d91b8849-837c-46d7-9d78-8168e8c98017" name="Changes" comment="" />
       <created>1744300796473</created>
       <option name="number" value="Default" />
@@ -1051,6 +1097,22 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1746443928335</updated>
+=======
+      <changelist id="525d6042-f840-4615-aeb9-57f30d385d3a" name="Changes" comment="" />
+      <created>1746609985076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746609985076</updated>
+      <workItem from="1746609986175" duration="1406000" />
+    </task>
+    <task id="LOCAL-00001" summary="FINAL UPDATE">
+      <option name="closed" value="true" />
+      <created>1746611080752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746611080752</updated>
+>>>>>>> 21f5efa (final u)
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -1059,6 +1121,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
@@ -1071,5 +1134,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+    <MESSAGE value="FINAL UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL UPDATE" />
+>>>>>>> 21f5efa (final u)
   </component>
 </project>
