@@ -47,6 +47,9 @@ It became my main **pet project**, where I practiced building a scalable fullsta
 🔐 Login Modal
 
 </details>
+
+--- 
+
 🌍 Language Note
 Even though the original tutorial was in Russian, this project is fully accessible to English and Hebrew-speaking developers. The UI is visually clear and uses universally understood design patterns.
 
