@@ -33,32 +33,13 @@ It became my main **pet project**, where I practiced building a scalable fullsta
 ---
 
 ## 📁 Folder Structure
-
 ├── app/ # Application routes (Next.js App Router)
 ├── prisma/ # Prisma schema, migrations, and seed
 ├── public/ # Static files (images, favicons, etc.)
 ├── shared/ # Reusable UI components, hooks, lib
 ├── @types/ # Custom TypeScript types
 
-yaml
-Копировать
-Редактировать
-
 ---
-
-## 💻 Getting Started
-
-Follow these steps to run the project locally:
-
-```bash
-git clone https://github.com/AntonG87/next-pizza-evelson.git
-cd next-pizza-evelson
-npm install
-npx prisma generate
-npx prisma migrate dev --name init
-npm run dev
-⚠️ Don't forget to create a .env file. You can use .env.example as a template for required variables (e.g., database URL, NextAuth config, etc.).
-
 📸 Screenshots
 <details> <summary>Click to expand screenshots</summary>
 🏠 Home Page
@@ -72,18 +53,23 @@ Even though the original tutorial was in Russian, this project is fully accessib
 🤝 Acknowledgements
 This project was inspired by a YouTube course but heavily adapted, modified, and expanded independently to serve as a showcase of fullstack skills using the modern Next.js stack.
 
+---
+
 📬 Contact
 If you'd like to connect or give feedback, feel free to reach out via LinkedIn or open an issue here on GitHub.
 
-yaml
-Копировать
-Редактировать
+---
+## 💻 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+git clone https://github.com/AntonG87/next-pizza-evelson.git
+cd next-pizza-evelson
+npm install
+npx prisma generate
+npx prisma migrate dev --name init
+npm run dev
 
 ---
 
-✅ Когда вставишь файл:
-
-- Добавь скриншоты в папку `screenshots/`, назвав их `homepage.png` и `login-modal.png`.
-- Создай `.env.example` в корне, если ещё не сделал.
-
-Хочешь, я помогу также оформить `.env.example` или описание проекта для LinkedIn?
