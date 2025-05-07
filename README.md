@@ -54,21 +54,10 @@ This project was inspired by a YouTube course but heavily adapted, modified, and
 If you'd like to connect or give feedback, feel free to reach out via LinkedIn or open an issue here on GitHub.
 
 ---
-## 💻 Getting Started
-
-Follow these steps to run the project locally:
-
-```bash
-git clone https://github.com/AntonG87/next-pizza-evelson.git
-cd next-pizza-evelson
-npm install
-npx prisma generate
-npx prisma migrate dev --name init
-npm run dev
 
 ---
 ## 📁 Folder Structure
-.
+```bash
 ├── app/                         # Next.js App Router pages and layout
 │   ├── (checkout)/             # Checkout route and layout
 │   ├── (dashboard)/            # Admin dashboard route and layout
@@ -147,4 +136,17 @@ npm run dev
 ├── postcss.config.mjs          # PostCSS config
 ├── tsconfig.json               # TypeScript configuration
 └── package.json                # Project dependencies and scripts
+```
 
+---
+## 💻 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+git clone https://github.com/AntonG87/next-pizza-evelson.git
+cd next-pizza-evelson
+npm install
+npx prisma generate
+npx prisma migrate dev --name init
+npm run dev
