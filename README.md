@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍕 NextPizza – Fullstack Pizza Ordering App
 
-## Getting Started
+Welcome to **NextPizza**, a modern and full-featured pizza ordering application built with:
 
-First, run the development server:
+- **Next.js 13 App Router**
+- **TypeScript**
+- **Prisma (ORM)**
+- **NextAuth.js (Authentication)**
+- **Tailwind CSS**
+
+---
+
+## 🧾 About the Project
+
+This project was originally built while following a 24-hour Russian-language course on YouTube. I actively coded along for the first half and later continued by analyzing the structure and key features on my own, such as authentication and database integration. Many parts were improved or refactored into my own style and ideas.
+
+It became my main **pet project**, where I practiced building a scalable fullstack app with a clean architecture.
+
+> The original version was developed in a **private repository**. For transparency, I uploaded the final version to this public repo. That's why all commits appear close in time.
+
+---
+
+## 🧠 Features
+
+- ✅ Product catalog with real-time filtering and sorting  
+- 🧀 Filter by dough type, size, price, and ingredients  
+- 🔍 Product search  
+- 🔐 Secure authentication via email, GitHub, or Google  
+- 🛒 Cart system with price calculation  
+- ⚡ Modern UI with fully responsive layout  
+- 🌐 Clean file structure and modular approach  
+
+---
+
+## 📁 Folder Structure
+
+├── app/ # Application routes (Next.js App Router)
+├── prisma/ # Prisma schema, migrations, and seed
+├── public/ # Static files (images, favicons, etc.)
+├── shared/ # Reusable UI components, hooks, lib
+├── @types/ # Custom TypeScript types
+
+yaml
+Копировать
+Редактировать
+
+---
+
+## 💻 Getting Started
+
+Follow these steps to run the project locally:
 
 ```bash
+git clone https://github.com/AntonG87/next-pizza-evelson.git
+cd next-pizza-evelson
+npm install
+npx prisma generate
+npx prisma migrate dev --name init
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+⚠️ Don't forget to create a .env file. You can use .env.example as a template for required variables (e.g., database URL, NextAuth config, etc.).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📸 Screenshots
+<details> <summary>Click to expand screenshots</summary>
+🏠 Home Page
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔐 Login Modal
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+</details>
+🌍 Language Note
+Even though the original tutorial was in Russian, this project is fully accessible to English and Hebrew-speaking developers. The UI is visually clear and uses universally understood design patterns.
 
-## Learn More
+🤝 Acknowledgements
+This project was inspired by a YouTube course but heavily adapted, modified, and expanded independently to serve as a showcase of fullstack skills using the modern Next.js stack.
 
-To learn more about Next.js, take a look at the following resources:
+📬 Contact
+If you'd like to connect or give feedback, feel free to reach out via LinkedIn or open an issue here on GitHub.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+yaml
+Копировать
+Редактировать
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+✅ Когда вставишь файл:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Добавь скриншоты в папку `screenshots/`, назвав их `homepage.png` и `login-modal.png`.
+- Создай `.env.example` в корне, если ещё не сделал.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Хочешь, я помогу также оформить `.env.example` или описание проекта для LinkedIn?
